@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [本組成員及倉儲](chapter1.md)
+* [本組成員及倉儲](README.md)
 * [week2](week2.md)
 * [week4](week4.md)
 * [week5](week5.md)
