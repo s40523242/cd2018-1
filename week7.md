@@ -1,4 +1,4 @@
-# week7
+# week7
 
 ### 上課內容:
 
@@ -28,7 +28,7 @@
 
 ### 
 
-### \*鋼球運動系統:https://www.youtube.com/watch?v=tV1bUpqg5ls&t=3s
+### \*鋼球運動系統:[https://www.youtube.com/watch?v=tV1bUpqg5ls&t=3s](https://www.youtube.com/watch?v=tV1bUpqg5ls&t=3s)
 
 ### 
 
