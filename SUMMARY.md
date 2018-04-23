@@ -7,4 +7,9 @@
 * [week6](week6.md)
 * [week7](week7.md)
 * [期中報告](qi-zhong-bao-gao.md)
+  * [Q1](qi-zhong-bao-gao/1.md)
+  * [Q2](qi-zhong-bao-gao/q2.md)
+  * [Q3](qi-zhong-bao-gao/q3.md)
+  * [Q4](qi-zhong-bao-gao/q4.md)
+  * [Q5](qi-zhong-bao-gao/q5.md)
 
