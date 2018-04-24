@@ -2,7 +2,7 @@
 
 # 第十二組
 
-### 小組倉儲 :[https://github.com/s40523242/cd2018](https://github.com/s40523242/cd2018)
+### 小組倉儲 :[https://github.com/s40523212/cd2018](https://github.com/s40523242/cd2018)
 
 ### [40523212吳志祥](https://github.com/s40523212/cd2018)
 
