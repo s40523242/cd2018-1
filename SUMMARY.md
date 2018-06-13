@@ -13,5 +13,11 @@
   * [Q4](qi-zhong-bao-gao/q4.md)
   * [Q5](qi-zhong-bao-gao/q5.md)
   * [自評成績](qi-zhong-bao-gao/zi-ping-cheng-ji.md)
-* week10
+* [week10](week10.md)
+* [week11](week11.md)
+* [week12](week12.md)
+* [week13](week13.md)
+* week14
+* week15
+* week16
 
