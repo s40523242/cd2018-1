@@ -17,7 +17,7 @@
 * [week11](week11.md)
 * [week12](week12.md)
 * [week13](week13.md)
-* week14
-* week15
+* [week14](week14.md)
+* [week15](week15.md)
 * week16
 
