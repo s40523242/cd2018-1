@@ -8,6 +8,8 @@
 
 ### 3.完成兩齒嚙合靜態繪圖後, 請嘗試轉為動態繪圖
 
+### 40523212
+
 ### [漸開線正齒輪輪廓外型](https://s40523212.github.io/cd2018-1/blog/hui-zhi-jing-tai-zheng-chi-lun.html)
 
 ### [50t 與 25t 的齒輪嚙合靜態輪廓圖](https://s40523212.github.io/cd2018-1/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html)
