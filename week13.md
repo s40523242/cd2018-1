@@ -14,6 +14,14 @@
 
 ### [50t&25t動態繪圖](https://s40523212.github.io/cd2018-1/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
 
+### 40523242
+
+### [42齒漸開線正齒輪輪廓外型](https://s40523242.github.io/cd2018/blog/hui-zhi-jing-tai-zheng-chi-lun.html)
+
+### [50t與25t 齒輪嚙合靜態輪廓圖](https://s40523242.github.io/cd2018/blog/hui-zhi-jing-tai-zu-he-zheng-chi-lun.html)
+
+### [50t與25t 齒輪嚙合動態繪圖](https://s40523242.github.io/cd2018/blog/hui-zhi-zu-he-zhuan-dong-zheng-chi-lun.html)
+
 ### 
 
 ### 

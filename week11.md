@@ -10,7 +10,5 @@
 
 ### 40523242-Pyslvs模擬
 
-
-
-
+![](/assets/42Pyslvs.png)
 
