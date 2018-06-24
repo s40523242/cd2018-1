@@ -9,9 +9,12 @@
 
 ---
 
-* ### slvs 零件組檔 {#各組請在各組倉儲中繳交-cdw11ag1slvs-零件組立檔、cdw11ag1pyslvs-機構模擬檔與-cdw11ag1ttt-提球模擬檔}
-* ### pyslvs 機構模擬檔 {#各組請在各組倉儲中繳交-cdw11ag1slvs-零件組立檔、cdw11ag1pyslvs-機構模擬檔與-cdw11ag1ttt-提球模擬檔}
-* ### cd\_w11\_ag1.ttt 提球模擬檔 {#各組請在各組倉儲中繳交-cdw11ag1slvs-零件組立檔、cdw11ag1pyslvs-機構模擬檔與-cdw11ag1ttt-提球模擬檔}
+* ### [slvs 零件組檔](https://github.com/s40523242/cd2018-1/blob/gh-pages/Ball%20lifter%20%28Double%20six%20bar%20linkage%29.slvs) {#各組請在各組倉儲中繳交-cdw11ag1slvs-零件組立檔、cdw11ag1pyslvs-機構模擬檔與-cdw11ag1ttt-提球模擬檔}
+* ### [pyslvs 機構模擬檔](https://github.com/s40523242/cd2018-1/blob/gh-pages/Ball%20lifter%20%28Double%20six%20bar%20linkage%29.pyslvs) {#各組請在各組倉儲中繳交-cdw11ag1slvs-零件組立檔、cdw11ag1pyslvs-機構模擬檔與-cdw11ag1ttt-提球模擬檔}
+* ### [cd\_w11\_bg12.ttt 提球模擬檔](https://github.com/s40523242/cd2018-1/blob/gh-pages/cd_w11_bg12.ttt) {#各組請在各組倉儲中繳交-cdw11ag1slvs-零件組立檔、cdw11ag1pyslvs-機構模擬檔與-cdw11ag1ttt-提球模擬檔}
+* ### [模擬影片](https://youtu.be/F4MOR_Pn_No) {#各組請在各組倉儲中繳交-cdw11ag1slvs-零件組立檔、cdw11ag1pyslvs-機構模擬檔與-cdw11ag1ttt-提球模擬檔}
+
+###  {#各組請在各組倉儲中繳交-cdw11ag1slvs-零件組立檔、cdw11ag1pyslvs-機構模擬檔與-cdw11ag1ttt-提球模擬檔}
 
 
 
