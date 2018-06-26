@@ -10,11 +10,11 @@
 
 ### 在自己的github的gitbook倉儲裡然後點選Pull Requests {#1先在自己的github的gitbook倉儲裡然後點選pull-requests}
 
-![](/assets/123)
+![](/assets/import.png)
 
 ### 再來按New Pull Requests，接下來按Create Pull Requests之後打上自己的倉儲名稱然後按Create Pull Requests\(這個已經用好了\) {#2再來就是按new-pull-requests}
 
-![](/assets/000)
+![](/assets/chrome_2018-06-26_16-28-56.png)
 
 # 與scrum-1/gitbook倉儲協同 {#2-與scrum-1gitbook倉儲協同把那些自己倉儲沒有的資料同步到自己的gitbook倉儲}
 
