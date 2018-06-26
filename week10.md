@@ -24,7 +24,7 @@
 ## V-REP![](/assets/vrep_2018-06-26_15-03-38.png)[cd\_w11\_bg12.ttt 提球模擬檔](https://github.com/s40523242/cd2018-1/blob/gh-pages/cd_w11_bg12.ttt)
 
 ## 模擬影片
-<iframe width="560" height="315" src="https://youtu.be/F4MOR_Pn_No" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#<iframe width="560" height="315" src="https://youtu.be/F4MOR_Pn_No" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ###  {#各組請在各組倉儲中繳交-cdw11ag1slvs-零件組立檔、cdw11ag1pyslvs-機構模擬檔與-cdw11ag1ttt-提球模擬檔}
 
