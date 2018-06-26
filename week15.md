@@ -18,7 +18,7 @@
 
 # 與scrum-1/gitbook倉儲協同 {#2-與scrum-1gitbook倉儲協同把那些自己倉儲沒有的資料同步到自己的gitbook倉儲}
 
-### 在網址上圖示之兩者對調，之後就會出現然後按Create Pull Requests\(如果畫面不同則代表網址更改有錯\)，之後打上自己的倉儲名稱然後按Create Pull Requests這樣就完成同步了!!0 {#3然後在網址上圖示之兩者對調}
+### 在網址上圖示之兩者對調，之後就會出現然後按Create Pull Requests\(如果畫面不同則代表網址更改有錯\)，之後打上自己的倉儲名稱然後按Create Pull Requests這樣就完成同步了!! {#3然後在網址上圖示之兩者對調}
 
 ![](/assets/Inkedchrome_2018-06-26_16-36-21_LI.jpg)
 
